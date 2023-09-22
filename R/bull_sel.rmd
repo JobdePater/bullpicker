@@ -1,0 +1,8 @@
+---
+title: "Stierselectie"
+author: "Job de Pater"
+date: "11/10/2021"
+output: html_document
+---
+
+Dit is een eerste opzet van een stierselectie. Daarvoor is gebruikt de meest recente lijst van de NVO met daaraan gekoppeld

@@ -1,0 +1,99 @@
+names1,names2,names3
+,levensnummer (itb),levensnummer (itb)
+,ki-code,ki-code
+,stiernaam,stiernaam
+,basis,basis
+productie,% betr,% betr_productie
+productie,dcht totaal,dcht totaal_productie
+productie,kg melk,kg melk_productie
+productie,kg vet,kg vet_productie
+productie,kg eiwit,kg eiwit_productie
+productie,kg lactose,kg lactose_productie
+productie,% vet,% vet_productie
+productie,% eiwit,% eiwit_productie
+productie,% lactose,% lactose_productie
+,inet,inet
+,inet_nvo,inet_nvo
+kg droge stof opname,% betr,% betr_kg droge stof opname
+,kg droge stof opname,kg droge stof opname
+levensproductievererving,kg melk,kg melk_levensproductievererving
+levensproductievererving,kg vet,kg vet_levensproductievererving
+levensproductievererving,kg eiwit,kg eiwit_levensproductievererving
+levensproductievererving,index,index_levensproductievererving
+levensduur,% betr,% betr_levensduur
+,levensduur,levensduur
+,nvi,nvi
+,tip,tip
+,verwantschapcorrectietip,verwantschapcorrectietip
+exterieur,% betr,% betr_exterieur
+exterieur,dcht totaal,dcht totaal_exterieur
+,frame,frame
+,type,type
+,uier,uier
+,beenwerk,beenwerk
+,totaal exterieur,totaal exterieur
+,hoogtemaat,hoogtemaat
+,voorhand,voorhand
+,inhoud,inhoud
+,openheid,openheid
+,conditie score,conditie score
+,kruisligging,kruisligging
+,kruisbreedte,kruisbreedte
+,beenstand achter,beenstand achter
+,beenstand zij,beenstand zij
+,klauwhoek,klauwhoek
+,voorbeenstand,voorbeenstand
+,beengebruik,beengebruik
+,vooruieraanhechting,vooruieraanhechting
+,voorspeenplaatsing,voorspeenplaatsing
+,speenlengte,speenlengte
+,uierdiepte,uierdiepte
+,achteruierhoogte,achteruierhoogte
+,ophangband,ophangband
+,achterspeenplaatsing,achterspeenplaatsing
+vruchtbaarheid,vruchtbaarheid,vruchtbaarheid_vruchtbaarheid
+,non-return,non-return
+,tussenkalftijd,tussenkalftijd
+,drachtpercentage koe,drachtpercentage koe
+,afkalfgemak,afkalfgemak
+,persistentie,persistentie
+,laatrijpheid,laatrijpheid
+,laatrijpheid_nvo,laatrijpheid_nvo
+,celgetal,celgetal
+,celgetal*,celgetal*
+,uiergezondheid,uiergezondheid
+klauwgezondheid,% betr,% betr_klauwgezondheid
+,klauwgezondheid,klauwgezondheid
+,melksnelheid,melksnelheid
+,karakter,karakter
+,geboortegemak,geboortegemak
+,geboorte index,geboorte index
+,lv. geboorte,lv. geboorte
+,lv. afkalven,lv. afkalven
+,kalvervitaliteit,kalvervitaliteit
+,draagtijd,draagtijd
+,lichaamsgewicht,lichaamsgewicht
+,bevleesdheid koe,bevleesdheid koe
+,verwantschapsgraad,verwantschapsgraad
+,melkrobot effici뮴ie,melkrobot effici뮴ie
+,melkrobot interval,melkrobot interval
+,melkrobot gewenning,melkrobot gewenning
+,stofwisselingsaandoeningen,stofwisselingsaandoeningen
+,reproductiestoornissen,reproductiestoornissen
+,aanhouding,aanhouding
+,% betr aanhouding,% betr aanhouding
+,aaa,aaa
+aaa gewense drie),,_aaa gewense drie)
+,stiernaam,stiernaam_1
+,volledige naam,volledige naam
+,vader,vader
+,moeders vader,moeders vader
+,ki-code,ki-code_1
+productie,bron,bron_productie
+exterieur,bron,bron_exterieur
+,erfelijke factoren,erfelijke factoren
+,ras,ras
+productie,basis,basis_productie
+,rasbalk,rasbalk
+,haarkleur,haarkleur
+,geb. datum (d/m/y),geb. datum (d/m/y)

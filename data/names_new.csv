@@ -1,0 +1,99 @@
+names1,names2,names3,voor,names_4
+,levensnummer (itb),levensnummer (itb),,levensnummer (itb)
+,ki-code,ki-code,,ki-code
+,stiernaam,stiernaam,,stiernaam
+,basis,basis,,basis
+productie,% betr,% betr_productie,prod,prod_% betr
+productie,dcht totaal,dcht totaal_productie,prod,prod_dcht totaal
+productie,kg melk,kg melk_productie,prod,prod_kg melk
+productie,kg vet,kg vet_productie,prod,prod_kg vet
+productie,kg eiwit,kg eiwit_productie,prod,prod_kg eiwit
+productie,kg lactose,kg lactose_productie,prod,prod_kg lactose
+productie,% vet,% vet_productie,prod,prod_% vet
+productie,% eiwit,% eiwit_productie,prod,prod_% eiwit
+productie,% lactose,% lactose_productie,prod,prod_% lactose
+,inet,inet,,inet
+,inet_nvo,inet_nvo,,inet_nvo
+kg droge stof opname,% betr,% betr_kg droge stof opname,opn,opn_% betr
+,kg droge stof opname,kg droge stof opname,opn,opn_kg droge stof opname
+levensproductievererving,kg melk,kg melk_levensproductievererving,lvn,lvn_kg melk
+levensproductievererving,kg vet,kg vet_levensproductievererving,lvn,lvn_kg vet
+levensproductievererving,kg eiwit,kg eiwit_levensproductievererving,lvn,lvn_kg eiwit
+levensproductievererving,index,index_levensproductievererving,lvn,lvn_index
+levensduur,% betr,% betr_levensduur,lvn,lvn_% betr
+,levensduur,levensduur,lvn,lvn_levensduur
+,nvi,nvi,,nvi
+,tip,tip,,tip
+,verwantschapcorrectietip,verwantschapcorrectietip,,verwantschapcorrectietip
+exterieur,% betr,% betr_exterieur,ext,ext_% betr
+exterieur,dcht totaal,dcht totaal_exterieur,ext,ext_dcht totaal
+,frame,frame,ext,ext_frame
+,type,type,ext,ext_type
+,uier,uier,ext,ext_uier
+,beenwerk,beenwerk,ext,ext_beenwerk
+,totaal exterieur,totaal exterieur,ext,ext_totaal exterieur
+,hoogtemaat,hoogtemaat,ext,ext_hoogtemaat
+,voorhand,voorhand,ext,ext_voorhand
+,inhoud,inhoud,ext,ext_inhoud
+,openheid,openheid,ext,ext_openheid
+,conditie score,conditie score,ext,ext_conditie score
+,kruisligging,kruisligging,ext,ext_kruisligging
+,kruisbreedte,kruisbreedte,ext,ext_kruisbreedte
+,beenstand achter,beenstand achter,ext,ext_beenstand achter
+,beenstand zij,beenstand zij,ext,ext_beenstand zij
+,klauwhoek,klauwhoek,ext,ext_klauwhoek
+,voorbeenstand,voorbeenstand,ext,ext_voorbeenstand
+,beengebruik,beengebruik,ext,ext_beengebruik
+,vooruieraanhechting,vooruieraanhechting,ext,ext_vooruieraanhechting
+,voorspeenplaatsing,voorspeenplaatsing,ext,ext_voorspeenplaatsing
+,speenlengte,speenlengte,ext,ext_speenlengte
+,uierdiepte,uierdiepte,ext,ext_uierdiepte
+,achteruierhoogte,achteruierhoogte,ext,ext_achteruierhoogte
+,ophangband,ophangband,ext,ext_ophangband
+,achterspeenplaatsing,achterspeenplaatsing,ext,ext_achterspeenplaatsing
+vruchtbaarheid,vruchtbaarheid,vruchtbaarheid_vruchtbaarheid,vrbh,vrbh_vruchtbaarheid
+,vruchtbaarheid,vruchtbaarheid_nvo,vrbh,vrbh_vruchtbaarheid_nvo
+,non-return,non-return,vrbh,vrbh_non-return
+,tussenkalftijd,tussenkalftijd,vrbh,vrbh_tussenkalftijd
+,drachtpercentage koe,drachtpercentage koe,vrbh,vrbh_drachtpercentage koe
+,afkalfgemak,afkalfgemak,vrbh,vrbh_afkalfgemak
+,persistentie,persistentie,vrbh,vrbh_persistentie
+,laatrijpheid,laatrijpheid,vrbh,vrbh_laatrijpheid
+,laatrijpheid_nvo,laatrijpheid_nvo,vrbh,vrbh_laatrijpheid_nvo
+uier,celgetal,celgetal,uier,uier_celgetal
+,celgetal*,celgetal*,uier,uier_celgetal*
+,uiergezondheid,uiergezondheid,uier,uier_uiergezondheid
+klauwgezondheid,% betr,% betr_klauwgezondheid,klauw,klauw_% betr
+,klauwgezondheid,klauwgezondheid,klauw,klauw_klauwgezondheid
+,melksnelheid,melksnelheid,,melksnelheid
+,karakter,karakter,,karakter
+,geboortegemak,geboortegemak,,geboortegemak
+,geboorte index,geboorte index,,geboorte index
+,lv. geboorte,lv. geboorte,,lv. geboorte
+,lv. afkalven,lv. afkalven,,lv. afkalven
+,kalvervitaliteit,kalvervitaliteit,,kalvervitaliteit
+,draagtijd,draagtijd,,draagtijd
+,lichaamsgewicht,lichaamsgewicht,,lichaamsgewicht
+,bevleesdheid koe,bevleesdheid koe,,bevleesdheid koe
+,verwantschapsgraad,verwantschapsgraad,,verwantschapsgraad
+,melkrobot index,melkrobot index,,melkrobot_index
+,melkrobot effici뮴ie,melkrobot effici�ntie,,melkrobot effici뮴ie
+,melkrobot interval,melkrobot interval,,melkrobot interval
+,melkrobot gewenning,melkrobot gewenning,,melkrobot gewenning
+,stofwisselingsaandoeningen,stofwisselingsaandoeningen,,stofwisselingsaandoeningen
+,reproductiestoornissen,reproductiestoornissen,,reproductiestoornissen
+,aaa,aaa,,aaa
+aaa gewense drie),,_aaa gewense drie),,0
+,stiernaam,stiernaam_1,,stiernaam
+,volledige naam,volledige naam,,volledige naam
+,vader,vader,,vader
+,moeders vader,moeders vader,,moeders vader
+,ki-code,ki-code_1,,ki-code
+productie,bron,bron_productie,,bron
+exterieur,bron,bron_exterieur,,bron
+,erfelijke factoren,erfelijke factoren,,erfelijke factoren
+,ras,ras,,ras
+productie,basis,basis_productie,,basis
+,rasbalk,rasbalk,,rasbalk
+,haarkleur,haarkleur,,haarkleur
+,geb. datum (d/m/y),geb. datum (d/m/y),,geb. datum (d/m/y)
